@@ -1,0 +1,5 @@
+{
+  "name": "PDF Page Slicer & AI Assistant",
+  "description": "A high-performance PDF manipulation tool that allows users to extract specific pages, assisted by Gemini AI to search and filter content across documents.",
+  "requestFramePermissions": []
+}
